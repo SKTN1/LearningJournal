@@ -4,7 +4,7 @@
 
 Creating child themes for WordPress themes and customizing their CSS opens up a world of design possibilities while maintaining the integrity of the original theme. Here's a structured approach to learning this process:
 
-*Understanding Child Themes*: Start by comprehending what child themes are and why they're crucial in WordPress development. A child theme inherits the functionality and styling of its parent theme while allowing modifications without altering the original code.
+*Understanding Child Themes*: Start by comprehending what child themes are and why they're crucial in WordPress development. A child theme inherits the functionalitynd st ayling of its parent theme while allowing modifications without altering the original code.
 
 *Creating a Child Theme*: Learn the steps to create a child theme. It involves creating a new directory, setting up a stylesheet (style.css) with specific comments to link it to the parent theme, and creating a functions.php file if additional functionalities are needed.
 
